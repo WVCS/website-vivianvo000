@@ -19,3 +19,13 @@ img{
     transform:scale(0.25);
 
 }
+  nav {
+  list-style-type: none;
+  background-color: #9FCC2E;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
