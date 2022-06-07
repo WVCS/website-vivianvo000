@@ -16,7 +16,7 @@ body{
 }
 img{ 
   border: dashed gold 5px;
-    transform:scale(0.75);
+    transform:scale(1.5);
   float: left;
   margin-left: 0px;
 }
@@ -42,4 +42,10 @@ li a {
   color: white;
   text-decoration: none;
   padding: 7px 10vh
+}
+hi{ 
+  border: dashed gold 5px;
+    transform:scale(1.5);
+  float: left;
+  margin-left: 0px;
 }
